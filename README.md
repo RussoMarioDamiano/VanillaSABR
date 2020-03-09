@@ -6,5 +6,6 @@
 The repository contains the following files:
 - SABR.py, that contains the documented SABR class;
 - DifferentialEvolution.py, a from-scratch Python3 implementation of the differential evolution algorithm used to calibrate the SABR model;
+- market_data.xlsx, the dataset containing different observed volatilities;
 - Implementation.ipynb, Jupyter notebook in which the model is fitted;
 - SABR.pdf, a LateX Beamer presentation that explains the model and showcases results.
